@@ -1,0 +1,10 @@
+{
+  "name": "projectnode-server-me-this",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Miroslav Vasilev",
+  "license": "ISC"
+}
