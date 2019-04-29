@@ -6,5 +6,8 @@
     "start": "node src/main.js"
   },
   "author": "Miroslav Vasilev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }

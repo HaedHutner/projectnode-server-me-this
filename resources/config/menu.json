@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "category": "Салати",
+            "name": "Шопска Салата",
+            "price": 5.49,
+            "weight": 350,
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "category": "Предястия",
+            "name": "Пържени Картофи",
+            "price": 4.00,
+            "weight": 250,
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "category": "Главни Ястия",
+            "name": "Свинска пържола с гъби",
+            "price": 6.80,
+            "weight": 400,
+            "enabled": true
+        },
+        {
+            "id": 4,
+            "category": "Десерти",
+            "name": "Крем-карамел",
+            "price": 3.20,
+            "weight": 150,
+            "enabled": true
+        }
+    ]
+}
